@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace MarsRover.Services
 {
-    public class PositionService
+    public class PositionService : IPositionService
     {
         public int X { get; set; }
 
