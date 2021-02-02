@@ -37,4 +37,11 @@ Expected Output:
 
 
 # Unit Test Part:
+
 There are 2 positive scenarios and 2 negative scenarios.
+
+2 postive scenarios are input and output of an example.
+
+"NegativeTestScenario1" is exception of direction.
+
+"NegativeTestScenario2" is unexpected result.
